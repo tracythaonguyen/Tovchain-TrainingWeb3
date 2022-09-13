@@ -1,9 +1,9 @@
 {
   "blocksInfo": {
-    "startBlock": 21168840,
-    "endBlock": 21169840
+    "startBlock": 21279601,
+    "endBlock": 21280600
   },
-  "wallet": "0x00000000000000000000000000000000000000",
-  "maxFrequency": 0,
-  "balance": 0.0
+  "wallet": "0x1a7B22699343Ed197473e53b68AAdbe1B6556D18",
+  "maxFrequency": 2,
+  "balance": 79209243029999992832.000
 }

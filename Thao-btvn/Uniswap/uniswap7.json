@@ -4,7 +4,7 @@
     0
   ],
   "infoExplanation": {
-    "<field1>": "<your answer>",
-    "<field2>": "<your answer"
+    "amount": "LP token amount the user has provided",
+    "rewardDebt": "Used to calculate the correct amount of rewards"
   }
 }
